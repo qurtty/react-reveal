@@ -2,11 +2,12 @@
   "name": "react-reveal-site",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://www.react-reveal.com/",
+  "homepage": "https://qurtty.github.io/react-reveal",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "gh-pages": "^1.1.0",
     "github-markdown-css": "^2.10.0",
+    "markdown-with-front-matter-loader": "^0.1.0",
     "prismjs": "^1.10.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
