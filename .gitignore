@@ -36,3 +36,5 @@ npm-debug.log
 /debounce.js
 /throttle.js
 /wrap.js
+
+build/
